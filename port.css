@@ -29,7 +29,7 @@ body{
 }
 
 .rice img, .wheat img, .maize img, .sugarcane img, .tea img, .coffee img{
-    width:290px;
+    width:100%;
     height:150px;
 }
 
